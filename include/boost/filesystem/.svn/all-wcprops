@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/boost/include/boost/filesystem
+END
+path.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/boost/include/boost/filesystem/path.hpp
+END
+convenience.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/boost/include/boost/filesystem/convenience.hpp
+END
+exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/boost/include/boost/filesystem/exception.hpp
+END
+fstream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/boost/include/boost/filesystem/fstream.hpp
+END
+operations.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/boost/include/boost/filesystem/operations.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/boost/include/boost/filesystem/config.hpp
+END
